@@ -1,0 +1,102 @@
+/*Hoja de estilos para los ejercicios 1 2 3 */
+
+body{  /*cual quier sentencia que no tenga punto afecta a tod */
+
+}
+
+
+/*Colores  de fondo s */
+
+
+.fondoverde{
+
+    background-color:#1abc9c;
+}
+
+.fondorojo{
+    background-color:red;
+}
+
+.fondoazul{
+    background-color:aqua;
+}
+
+.fondoblanco{
+    background-color: white;
+}
+.fondovioleta{
+    background-color: blueviolet;
+}
+
+.fondoamarillo{
+    background-color:yellow;
+}
+.fondoverdeclaro{
+    background-color: chartreuse;
+}
+
+/*Colores de letra*/
+
+
+.letrablanca{
+
+    color:white;
+}
+
+.letranegra{
+
+    color:white;
+}
+
+
+
+/*.tamaño de letra*/
+
+.tamañoletra{
+
+    font-size:2em;
+
+}
+
+/*bordes*/
+
+.bordegris{
+
+     border:10px outset #566573;
+}
+
+
+.bordenegro
+{
+    border:1px solid  black;
+
+
+}
+/*tamaño de recuadro a las orillas*/
+
+
+.tamañorecuadro{
+    width:100%;
+    height:10%;
+
+    }
+
+.tamañorecuadro2{
+    width:100%;
+    height:5%;
+
+    }
+
+
+/*margen de recuadro*/
+.margen{
+margin:  -5px;
+padding: -5px;
+
+}
+
+.margen2{
+margin:  -5px;
+padding: -5px;
+
+}
